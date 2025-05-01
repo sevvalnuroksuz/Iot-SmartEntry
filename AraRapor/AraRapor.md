@@ -75,4 +75,11 @@ Proje, öneri raporunda yer alan tüm temel gereksinimleri başarıyla yerine ge
 
 ### 🔈 5. Python ile Bilgisayar Üzerinden Sesli Bildirim
 
+## 7. Katkı Sağlayanlar
+
+- **Adile Akkılıç** - [Adile Akkılıç](https://github.com/adileakklc)
+- **Dilek Yilmaz** - [Dilek](https://github.com/Dilekyilmazz)
+- **Sude Telli** - [Sude](https://github.com/sude28)
+- **Şevval Nur Öksüz** - [Şevval Nur Öksüz](https://github.com/sevvalnuroksuz)
+
 ---

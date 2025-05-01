@@ -36,11 +36,11 @@ RFID karttan UID alınır → JSON formatına çevrilir → Python’a iletilir 
 - 💻 Python GUI arayüzü geliştirildi ve log sistemi kuruldu.
 - ☁️ Firebase ile veri bağlantısı kurularak veri gönderimi sağlandı.
 - 📷 Görseller:
-  - ![Devre Bağlantısı](Figure/Fig1_Baglanti_Semasi.jpg)
+  - ![Devre Bağlantısı](Figure/Fig1_Baglanti_Semasi.webp)
   - ![Gerçek Kurulum](Figure/Fig2_Breadboard_Foto.jpg)
   - ![Akış Diyagramı](Figure/Fig3_Sistem_Akisi.jpg)
-  - ![Serial Çıktı](Figure/Fig4_SerialMonitor.png)
-  - ![Python GUI](Figure/Fig5_GUI_Ekrani.png)
+  - ![Serial Çıktı](Figure/Fig4_SerialMonitor.jpg)
+  - ![Python GUI](Figure/Fig5_GUI_Ekrani.jpg)
   - ![Firebase](Figure/Fig6_Firebase_Ekrani.png)
   - ![Yeşil LED](Figure/Fig7_LED_Yesil.jpg)
   - ![Kırmızı LED](Figure/Fig8_LED_Kirmizi.jpg)

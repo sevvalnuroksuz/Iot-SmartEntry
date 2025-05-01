@@ -1,10 +1,10 @@
 
 # 🔐 Ara Rapor
 
-## 1. Proje Konusu (Kısa)
+## 1. Proje Konusu 
 Bu proje, Arduino UNO, RC522 RFID kart okuyucu ve Firebase kullanılarak geliştirilen bir akıllı kapı kilidi sistemidir. Kullanıcılar RFID kartları ile kimlik doğrulaması yapar, geçerli kartlar için yeşil LED yanar ve bilgiler Firebase veri tabanına kaydedilir. Sistem, Python GUI arayüzü ile masaüstü bildirim ve loglama sağlar.
 
-## 2. Özet (Kısa)
+## 2. Özet 
 Projenin bu aşamasında:
 - RFID kart UID’si okuma,
 - LED ile geçerli/geçersiz kart ayrımı,
@@ -36,13 +36,21 @@ RFID karttan UID alınır → JSON formatına çevrilir → Python’a iletilir 
 - 💻 Python GUI arayüzü geliştirildi ve log sistemi kuruldu.
 - ☁️ Firebase ile veri bağlantısı kurularak veri gönderimi sağlandı.
 - 📷 Görseller:
+  -Devre Bağlantısı
   - ![Devre Bağlantısı](Figure/Fig1_Baglanti_Semasi.webp)
+  - Gerçek Kurulum
   - ![Gerçek Kurulum](Figure/Fig2_Breadboard_Foto.jpg)
+  - Akış Diyagramı
   - ![Akış Diyagramı](Figure/Fig3_Sistem_Akisi.jpg)
+  - Serial Çıktı
   - ![Serial Çıktı](Figure/Fig4_SerialMonitor.jpg)
+  - Gui Ekranı
   - ![Python GUI](Figure/Fig5_GUI_Ekrani.jpg)
+  - Firebase Ekranı
   - ![Firebase](Figure/Fig6_Firebase_Ekrani.png)
+  - Led Yeşil Yanarken
   - ![Yeşil LED](Figure/Fig7_LED_Yesil.jpg)
+  - Kırmızı Led Yanarken
   - ![Kırmızı LED](Figure/Fig8_LED_Kirmizi.jpg)
 
 ## 5. Elde Edilen Sonuçlar
